@@ -1,0 +1,1 @@
+1/ La commande elle permet d'afficher l'état du répertoire de travail et de la zone de staging 
