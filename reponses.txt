@@ -19,4 +19,4 @@ git status
 13/git clone
 14/On trouve un readme
 git log --oneline
-15/ git diff 
+15/ git diff
