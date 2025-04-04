@@ -3,4 +3,20 @@
 3/ Aprés la commande les ajouts sont placés dans la staging area.
 5/La commande est git log.
 6/Git diff montre les différences non validés alors que git diff --staged montre les différences entre les fichiers de la staging aera et du dernier commit .
-7/
+7/Git show montre les détailles d'un commit, git status affiche l'état du projet, git diff montre les differences entre les versions du fichier et git log montre l'historique des commits du fichier.
+8/  On branch develop
+Changes to be committed:
+ (use "git restore --staged <file>..." to unstage)
+       new file:   brouillon.txt
+       new file:   fichier1.txt
+9/ La commande git reset eneleve le fichier de la staging area et le remets dans le working directory.
+10/C'est la commande git status. Ca doit nous afficher nothing to commit.
+11/git status
+git ls-files
+git log
+git status
+12/git log --oneline
+13/git clone
+14/On trouve un readme
+git log --oneline
+15/ git diff 
